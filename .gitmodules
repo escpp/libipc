@@ -1,0 +1,6 @@
+[submodule "cpp-ipc"]
+	path = cpp-ipc
+	url = https://github.com/mutouyun/cpp-ipc.git
+[submodule "es_tools"]
+	path = es_tools
+	url = https://github.com/escpp/es_tools
